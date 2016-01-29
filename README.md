@@ -4,6 +4,6 @@
 #       - Mean and Standard Deviation by Measurement
 #       - Mean by Subject and Activity
 
-#Code_Book.doc - Code Book including the following:
+#Code_Book - Code Book including the following:
 #       - R Script Steps and Description
 #       - data, variables, and units
