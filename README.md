@@ -1,9 +1,11 @@
-# Course Project File Descriptions
+### Getting and Cleaning Data Course Project
+Scott Ziemke
+####Overview
 
-### Run_analysis.R - R Script for loading Raw data and transforming into the following tables:
+####  R Script
        - Mean and Standard Deviation by Measurement
        - Mean by Subject and Activity
 
-###Code_Book - Code Book including the following:
+#### Code_Book
       - R Script Steps and Description
       - Data, variables, and units
