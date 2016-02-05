@@ -15,5 +15,5 @@ The objective of this project is to create the following from a raw data set: Me
 
 
 #### Code_Book
-      - R Script Steps and Description*
-      - Data, variables, and units*
+- R Script Steps and Description
+- Data, variables, and units
