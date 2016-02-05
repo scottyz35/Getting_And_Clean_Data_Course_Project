@@ -101,7 +101,7 @@ Step5_final <- Final <- aggregate(TT[,3:ncol(TT)],
 
 Processed Data Files
 feature_labels$V2	Original Measurement Variable Name	Tidy Measurement Variable Name	Units
-V1	tBodyAcc-mean()-X	Time_BodyAcc_mean_X	m/s^2
+\| V1	\|tBodyAcc-mean()-X \|	Time_BodyAcc_mean_X\|	m/s^2|\
 V2	tBodyAcc-mean()-Y	Time_BodyAcc_mean_Y	m/s^2
 V3	tBodyAcc-mean()-Z	Time_BodyAcc_mean_Z	m/s^2
 V4	tBodyAcc-std()-X	Time_BodyAcc_std_X	NA
